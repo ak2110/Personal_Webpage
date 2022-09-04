@@ -1,10 +1,8 @@
 # Personal Webpage of Anagha Kadoo
 
-# Made using Start Bootstrap Resume Template 
+##### Made using Start Bootstrap Resume Template 
 
-=====================================================================
-# README for the Start Bootstrap Template
-=====================================================================
+### README for the Start Bootstrap Template
 
 
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
